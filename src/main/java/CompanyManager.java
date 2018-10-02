@@ -1,5 +1,3 @@
-package main.java.edu.upc.eetac.dsa;
-
 import java.util.Date;
 import java.util.List;
 
